@@ -1,5 +1,13 @@
 # Golang
 
+## อ้างอิง
+
+{% embed url="https://stackoverflow.com/questions/42614380/go-install-not-working-with-zsh" %}
+
+
+
+
+
 If you installed on Mac OS not with home-brew but with the macOS package installer, your _GOBIN_ be in [/usr/local/go](https://golang.org/doc/install) and _GOPATH_ in [$HOME/go](https://github.com/golang/go/wiki/SettingGOPATH), finally in `~/.zshrc`:
 
 ```text
