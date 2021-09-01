@@ -5,4 +5,5 @@
 ## Homebrew
 
 * [nvm](homebrew/nvm.md)
+* [Golang](homebrew/golang.md)
 
